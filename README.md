@@ -12,6 +12,13 @@ Mario Jump é um jogo interativo desenvolvido com React e TypeScript, onde o jog
 - **Game Over:** Se o personagem colidir com os cones, o jogo será interrompido e uma mensagem de "Game Over" será exibida.
 - **Continuidade:** O jogo continua até que o jogador perca, acumulando pontos a cada obstáculo superado.
 
+## Galeria
+
+<!-- ![image-game](./public/Captura%20de%20ecrã%20de%202024-07-18%2009-53-12.png) -->
+<img src="./public/Captura%20de%20ecrã%20de%202024-07-18%2009-53-12.png" alt="Tela do Jogo" height="200px">
+<img src="./public/Captura de ecrã de 2024-07-18 09-53-22.png" alt="Tela do Jogo" height="200px">
+<img src="./public/Captura de ecrã de 2024-07-18 09-54-41.png" alt="Tela do Jogo" height="200px">
+
 ## Tecnologias Utilizadas
 
 - **React:** Biblioteca JavaScript para construção de interfaces de usuário.
