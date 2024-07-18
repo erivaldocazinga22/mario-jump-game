@@ -8,7 +8,7 @@ Mario Jump é um jogo interativo desenvolvido com React e TypeScript, onde o jog
 
 - **Nome do Usuário:** Ao abrir o jogo pela primeira vez, será solicitado o nome do usuário, que será armazenado em uma lista no localStorage, juntamente com a pontuação máxima do jogador.
 - **Escolha de Personagem:** O jogador pode escolher entre os personagens "Mario" e "Luigi".
-- **Saltos:** O personagem pode saltar para evitar obstáculos.
+- **Saltos:** O personagem pode saltar para evitar obstáculos usando a tecla espaço.
 - **Game Over:** Se o personagem colidir com os cones, o jogo será interrompido e uma mensagem de "Game Over" será exibida.
 - **Continuidade:** O jogo continua até que o jogador perca, acumulando pontos a cada obstáculo superado.
 
@@ -23,8 +23,8 @@ Siga os passos abaixo para configurar e executar o jogo localmente:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/mario-jump.git
-   cd mario-jump
+   git clone https://github.com/erivaldocazinga22/mario-jump-game.git
+   cd mario-jump-game
    ```
 
 2. **Instale as dependências:**
@@ -38,7 +38,7 @@ Siga os passos abaixo para configurar e executar o jogo localmente:
    ```
 
 4. **Acesse o jogo no navegador:**
-   Abra seu navegador e vá para `http://localhost:3000`.
+   Abra seu navegador e vá para `http://localhost:5173`.
 
 ## Contribuição
 
